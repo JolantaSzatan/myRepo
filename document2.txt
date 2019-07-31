@@ -1,0 +1,4 @@
+document 2 linie 1
+document 2 linie 2
+document 2 linie 3
+document 2 linie 4
