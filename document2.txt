@@ -3,3 +3,4 @@ document 2 linie 2 ala ma kota
 document 2 linie 3
 document 2 linie 4
 line 5
+line 6
